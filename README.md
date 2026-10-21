@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @agathalimonso
-- 👀 I’m interested in data analytics, especially about operations in businesses & product manufacturing.
-- 🌱 I’m currently learning SQL.
-- 📫 Reach me in
-  - Linkedin = https://www.linkedin.com/in/agathalimonso/
-  - Medium = https://medium.com/@agatha.limonso1
+- 👋 Hi, I’m @alimoo
+- 👀 I’m interested in Python, data analysis and quant finance.
+- 🌱 I'm currently learning Python and I want to learn more languages like R & JavaScript.
 
 <!---
 agathalimonso/agathalimonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
